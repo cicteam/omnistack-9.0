@@ -52,8 +52,10 @@ ul.notifications li button {
   
 ul.notifications li button.accept {
   color: #84C870;
+  background-color: #FFF;
 }
   
 ul.notifications li button.reject {
   color: #E55E5E;
+  background-color: #FFF;
 }
