@@ -1,6 +1,6 @@
 // IMPORTS
 import React, { useState, useEffect } from 'react';
-import {StyleSheet, SafeAreaView, Image, AsyncStorage, ScrollView, TouchableOpacity, Platform} from 'react-native';
+import {StyleSheet, SafeAreaView, Image, AsyncStorage, ScrollView, TouchableOpacity, Platform, Alert} from 'react-native';
 
 import SpotList from '../components/SpotList';
 import logo from '../assets/logo.png';
